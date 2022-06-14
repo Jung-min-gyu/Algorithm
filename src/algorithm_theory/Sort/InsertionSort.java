@@ -1,4 +1,4 @@
-package algorithm_theory;
+package algorithm_theory.Sort;
 
 import java.util.ArrayList;
 import java.util.Collections;
